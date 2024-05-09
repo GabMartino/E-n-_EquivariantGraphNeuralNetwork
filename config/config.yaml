@@ -1,0 +1,16 @@
+
+
+
+
+data_path: "./Datasets/QM9"
+logs_path: "./logs"
+max_epochs: 100
+batch_size: 16
+lr: 1e-3
+
+n_input_features: 11
+n_hidden_features: 128
+n_output_features: 19
+
+train: True
+test: True
